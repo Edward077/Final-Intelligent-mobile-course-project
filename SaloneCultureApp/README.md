@@ -10,6 +10,11 @@ project from Android Studio following the steps
 [here](https://developer.android.com/jetpack/compose/setup#sample).
 
 <img width="1536" height="1024" alt="Sierra Leoen Culture_App_Tablet " src="https://github.com/user-attachments/assets/46a023f8-5af1-42df-9b86-7696aae1ed7f" />
+<img width="1024" height="1536" alt="Salone Culture_App1" src="https://github.com/user-attachments/assets/74b349b2-6ca8-4363-a4d9-5ce71fdc4baa" />
+<img width="1024" height="1536" alt="Salone Culture_App_CultureView" src="https://github.com/user-attachments/assets/bfa8f357-365e-4b00-9d9c-e4f6293d1aeb" />
+![Salone_Culture_App_30s_UI_Simulation](https://github.com/user-attachments/assets/853a4149-82ee-48c5-ba75-58320a00549b)
+
+
 
 
 ## Features
