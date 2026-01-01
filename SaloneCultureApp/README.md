@@ -9,9 +9,8 @@ You can clone this repository or import the
 project from Android Studio following the steps
 [here](https://developer.android.com/jetpack/compose/setup#sample).
 
-## Screenshots
+<img width="1536" height="1024" alt="Sierra Leoen Culture_App_Tablet " src="https://github.com/user-attachments/assets/46a023f8-5af1-42df-9b86-7696aae1ed7f" />
 
-<img src="screenshots/screenshots.png" alt="Screenshot">
 
 ## Features
 
